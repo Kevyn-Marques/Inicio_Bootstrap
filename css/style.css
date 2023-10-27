@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Smythe&display=swap');
+
 body{
     background-color:#261201 ;
 }
@@ -6,4 +8,11 @@ body{
 }
 .container{
     background-color: #D95407;
+}
+.branco{
+    color:ghostwhite;
+    font-family:Smythe,sans-serif;
+}
+.tamanho{
+    font-size: 1.5rem;
 }
